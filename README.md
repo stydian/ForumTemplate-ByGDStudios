@@ -1,2 +1,2 @@
-# GDStudios-ForumTemplate
-Free to use Forum template built from scratch.
+# GDStudios-Web Templates.
+Free to use for everyone.
